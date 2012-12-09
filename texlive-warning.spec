@@ -47,3 +47,16 @@ reason' or 'This is a draft, change it before the final run'.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.01-2
++ Revision: 757497
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.01-1
++ Revision: 719901
+- texlive-warning
+- texlive-warning
+- texlive-warning
+
