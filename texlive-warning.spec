@@ -6,7 +6,7 @@
 # catalog-version 0.01
 Name:		texlive-warning
 Version:	0.01
-Release:	6
+Release:	7
 Summary:	Global warnings at the end of the logfile
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/warning
