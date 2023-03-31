@@ -1,6 +1,6 @@
 Name:		texlive-warning
 Version:	22028
-Release:	1
+Release:	2
 Summary:	Global warnings at the end of the logfile
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/warning
