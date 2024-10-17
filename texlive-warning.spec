@@ -3,7 +3,7 @@ Version:	22028
 Release:	2
 Summary:	Global warnings at the end of the logfile
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/warning
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/warning
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/warning.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/warning.doc.r%{version}.tar.xz
